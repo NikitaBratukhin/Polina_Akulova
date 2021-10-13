@@ -1,2 +1,3 @@
-hello_world = "Hello world!"
-print(hello_world)
+var = input("Hello my name is:\n")
+print("Akulova Polina", var)
+input()
